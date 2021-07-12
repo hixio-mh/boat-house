@@ -40,7 +40,7 @@
     "grunt-contrib-uglify": "^1.0.0",
     "grunt-contrib-watch": "^0.6.1",
     "grunt-gh-pages": "^1.0.0",
-    "grunt-lintspaces": "^0.7.4",
+    "grunt-lintspaces": "^0.10.0",
     "grunt-mkdir": "^1.0.0",
     "grunt-modernizr": "^1.0.2",
     "grunt-postcss": "^0.8.0",

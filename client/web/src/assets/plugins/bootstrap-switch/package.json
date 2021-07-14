@@ -37,7 +37,7 @@
   "license": "Apache Version 2",
   "readmeFilename": "README.md",
   "devDependencies": {
-    "coffee-script": "~1.8.0",
+    "coffee-script": "~1.12.7",
     "gulp": "~3.8.9",
     "gulp-changed": "^1.1.0",
     "gulp-coffee": "~2.2.0",

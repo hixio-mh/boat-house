@@ -1,5 +1,5 @@
 
-FROM node:lts-alpine
+FROM node:14.17.6-alpine3.11
 
 RUN npm config set registry https://repo.huaweicloud.com/repository/npm/
 RUN npm config set unsafe-perm true

@@ -7,7 +7,7 @@
     "streamqueue": "^0.1.1"
   },
   "devDependencies": {
-    "gulp": "^3.8.10",
+    "gulp": "^4.0.0",
     "gulp-bump": "^0.1.13",
     "gulp-filter": "^2.0.0",
     "gulp-git": "^0.5.6",
